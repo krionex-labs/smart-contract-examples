@@ -9,7 +9,7 @@ the Krionex workspace.
 |-------|-------|
 | Standard | ERC20 |
 | Deployed via | Krionex |
-| Networks | Ethereum, Base, Polygon, Avalanche |
+| Networks | Ethereum, Base, Polygon, Avalanche, BNB |
 | Verified | Yes — source verified on explorer |
 
 ## Source Code
