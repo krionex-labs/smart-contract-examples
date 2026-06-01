@@ -18,3 +18,21 @@ to your NFT metadata JSON file.
 | Your own server | Depends | Full control |
 
 **Format your metadata URI like this:**
+ipfs://YOUR_CID_HERE/
+Krionex will append the token ID automatically — so token #1 
+becomes `ipfs://YOUR_CID/1`, token #2 becomes `ipfs://YOUR_CID/2` and so on.
+
+## Deployment Details
+
+| Field | Value |
+|-------|-------|
+| Standard | ERC721 |
+| Deployed via | Krionex |
+| Metadata URI | Provided by user at deployment |
+| Verified | Yes — source verified on explorer |
+
+## Source Code
+See [ExampleNFT.sol](./ExampleNFT.sol)
+
+## Deploy Your Own
+→ [krionex.com](https://krionex.com)
